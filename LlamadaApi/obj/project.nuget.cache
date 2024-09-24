@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1TahX1ogSE=",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\Mis_proyectos\\proyectosifts12\\llamadaapi\\LlamadaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

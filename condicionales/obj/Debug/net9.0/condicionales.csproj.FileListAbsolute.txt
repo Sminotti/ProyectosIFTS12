@@ -12,3 +12,4 @@ C:\xampp\htdocs\Mis_proyectos\proyectosifts12\condicionales\obj\Debug\net9.0\ref
 C:\xampp\htdocs\Mis_proyectos\proyectosifts12\condicionales\obj\Debug\net9.0\condicionales.pdb
 C:\xampp\htdocs\Mis_proyectos\proyectosifts12\condicionales\obj\Debug\net9.0\condicionales.genruntimeconfig.cache
 C:\xampp\htdocs\Mis_proyectos\proyectosifts12\condicionales\obj\Debug\net9.0\ref\condicionales.dll
+C:\xampp\htdocs\Mis_proyectos\proyectosifts12\condicionales\obj\Debug\net9.0\condicionales.sourcelink.json

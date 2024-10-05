@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Mis_proyectos\\proyectosifts12\\condicionales\\condicionales.csproj": {}
+    "C:\\xampp\\htdocs\\Mis_proyectos\\ProyectosIFTS12\\condicionales\\condicionales.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Mis_proyectos\\proyectosifts12\\condicionales\\condicionales.csproj": {
+    "C:\\xampp\\htdocs\\Mis_proyectos\\ProyectosIFTS12\\condicionales\\condicionales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Mis_proyectos\\proyectosifts12\\condicionales\\condicionales.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Mis_proyectos\\ProyectosIFTS12\\condicionales\\condicionales.csproj",
         "projectName": "condicionales",
-        "projectPath": "C:\\xampp\\htdocs\\Mis_proyectos\\proyectosifts12\\condicionales\\condicionales.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\Mis_proyectos\\ProyectosIFTS12\\condicionales\\condicionales.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Mis_proyectos\\proyectosifts12\\condicionales\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Mis_proyectos\\ProyectosIFTS12\\condicionales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",

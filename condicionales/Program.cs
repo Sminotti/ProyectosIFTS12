@@ -11,6 +11,7 @@ namespace condicionales
             int numero_4;
             int numero_5;
             int edad;
+            
             // ejerciocios 1 y 2
             Console.WriteLine("Ingrese dos numeros:");
             Console.WriteLine("Escriba el primer numero:");
@@ -29,7 +30,7 @@ namespace condicionales
             // Escriba un programa que permita leer por teclado la edad de una persona y devuelva en que rango etario se encuentra.
 
             Console.WriteLine("Escriba su edad:");
-            edad = Convert.ToInt32(Console.ReadLine());// lo convierto
+            edad = Convert.ToInt32(Console.ReadLine());// ingreso la edad y lo convierto a numero
             if (edad <= 11) { Console.WriteLine("Niñez"); }
             if ((edad >= 12) && (edad <= 18)) { Console.WriteLine("Adolescencia"); }
             if ((edad >= 19) && (edad <= 30)) { Console.WriteLine("Juventud"); }
@@ -48,8 +49,6 @@ namespace condicionales
             numero_5 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("El promedio de los 5 numero ingresados: " + numero_1 +"-"+ numero_2 +"-"+ numero_3 +"-"+ numero_4 +"-"+ numero_5 +" "+ " es: ");
             Console.WriteLine((numero_1 + numero_2 + numero_3 + numero_4 + numero_5) / 5);
-
-
 
         }
     }

@@ -57,16 +57,19 @@ public class Program
         mascota3.AsignarFNac(unaFNac);
 
         // Mostrar datos de las mascotas
+        Console.WriteLine("***********Mascota 1***********");
         mascota1.MostrarEspecie();
         mascota1.MostrarNombre();
         mascota1.MostrarFNac();
         mascota1.MostrarDatos();
 
+        Console.WriteLine("***********Mascota 2***********");
         mascota2.MostrarEspecie();
         mascota2.MostrarNombre();
         mascota2.MostrarFNac();
         mascota2.MostrarDatos();
 
+        Console.WriteLine("***********Mascota 3***********");
         mascota3.MostrarEspecie();
         mascota3.MostrarNombre();
         mascota3.MostrarFNac();

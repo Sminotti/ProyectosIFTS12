@@ -13,3 +13,18 @@ C:\xampp\htdocs\Mis_proyectos\proyectosIfts12\ejercicio6\obj\Debug\net9.0\refint
 C:\xampp\htdocs\Mis_proyectos\proyectosIfts12\ejercicio6\obj\Debug\net9.0\ejercicio6.pdb
 C:\xampp\htdocs\Mis_proyectos\proyectosIfts12\ejercicio6\obj\Debug\net9.0\ejercicio6.genruntimeconfig.cache
 C:\xampp\htdocs\Mis_proyectos\proyectosIfts12\ejercicio6\obj\Debug\net9.0\ref\ejercicio6.dll
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\bin\Debug\net9.0\ejercicio6.exe
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\bin\Debug\net9.0\ejercicio6.deps.json
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\bin\Debug\net9.0\ejercicio6.runtimeconfig.json
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\bin\Debug\net9.0\ejercicio6.dll
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\bin\Debug\net9.0\ejercicio6.pdb
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\obj\Debug\net9.0\ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\obj\Debug\net9.0\ejercicio6.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\obj\Debug\net9.0\ejercicio6.AssemblyInfo.cs
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\obj\Debug\net9.0\ejercicio6.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\obj\Debug\net9.0\ejercicio6.sourcelink.json
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\obj\Debug\net9.0\ejercicio6.dll
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\obj\Debug\net9.0\refint\ejercicio6.dll
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\obj\Debug\net9.0\ejercicio6.pdb
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\obj\Debug\net9.0\ejercicio6.genruntimeconfig.cache
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio6\obj\Debug\net9.0\ref\ejercicio6.dll

@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\obj\Debug\net9.0\ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\obj\Debug\net9.0\ejercicio8.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\obj\Debug\net9.0\ejercicio8.AssemblyInfo.cs
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\obj\Debug\net9.0\ejercicio8.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\obj\Debug\net9.0\ejercicio8.sourcelink.json
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\bin\Debug\net9.0\ejercicio8.exe
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\bin\Debug\net9.0\ejercicio8.deps.json
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\bin\Debug\net9.0\ejercicio8.runtimeconfig.json
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\bin\Debug\net9.0\ejercicio8.dll
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\bin\Debug\net9.0\ejercicio8.pdb
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\obj\Debug\net9.0\ejercicio8.dll
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\obj\Debug\net9.0\refint\ejercicio8.dll
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\obj\Debug\net9.0\ejercicio8.pdb
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\obj\Debug\net9.0\ejercicio8.genruntimeconfig.cache
+C:\xampp\htdocs\Mis Proyectos\proyectosifts12\ejercicio8\obj\Debug\net9.0\ref\ejercicio8.dll

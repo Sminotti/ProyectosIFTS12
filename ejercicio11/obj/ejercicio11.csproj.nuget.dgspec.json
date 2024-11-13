@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Mis Proyectos\\ProyectosIFTS12\\ejercicio6\\ejercicio6.csproj": {}
+    "C:\\xampp\\htdocs\\Mis Proyectos\\ProyectosIFTS12\\ejercicio11\\ejercicio11.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Mis Proyectos\\ProyectosIFTS12\\ejercicio6\\ejercicio6.csproj": {
+    "C:\\xampp\\htdocs\\Mis Proyectos\\ProyectosIFTS12\\ejercicio11\\ejercicio11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Mis Proyectos\\ProyectosIFTS12\\ejercicio6\\ejercicio6.csproj",
-        "projectName": "ejercicio6",
-        "projectPath": "C:\\xampp\\htdocs\\Mis Proyectos\\ProyectosIFTS12\\ejercicio6\\ejercicio6.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Mis Proyectos\\ProyectosIFTS12\\ejercicio11\\ejercicio11.csproj",
+        "projectName": "ejercicio11",
+        "projectPath": "C:\\xampp\\htdocs\\Mis Proyectos\\ProyectosIFTS12\\ejercicio11\\ejercicio11.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Mis Proyectos\\ProyectosIFTS12\\ejercicio6\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Mis Proyectos\\ProyectosIFTS12\\ejercicio11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"

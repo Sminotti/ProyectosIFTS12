@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\obj\Debug\net9.0\ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\obj\Debug\net9.0\ejercicio10.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\obj\Debug\net9.0\ejercicio10.AssemblyInfo.cs
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\obj\Debug\net9.0\ejercicio10.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\obj\Debug\net9.0\ejercicio10.sourcelink.json
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\bin\Debug\net9.0\ejercicio10.exe
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\bin\Debug\net9.0\ejercicio10.deps.json
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\bin\Debug\net9.0\ejercicio10.runtimeconfig.json
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\bin\Debug\net9.0\ejercicio10.dll
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\bin\Debug\net9.0\ejercicio10.pdb
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\obj\Debug\net9.0\ejercicio10.dll
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\obj\Debug\net9.0\refint\ejercicio10.dll
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\obj\Debug\net9.0\ejercicio10.pdb
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\obj\Debug\net9.0\ejercicio10.genruntimeconfig.cache
+C:\xampp\htdocs\Mis Proyectos\ProyectosIFTS12\ejercicio10\obj\Debug\net9.0\ref\ejercicio10.dll
